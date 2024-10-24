@@ -1,5 +1,7 @@
 from ProductosTotales.productos_almacen import Producto
 
+# cambiara este codigo muy pronto
+
 class Inventario:
 
     def __init__(self):
