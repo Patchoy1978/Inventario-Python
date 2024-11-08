@@ -62,7 +62,7 @@ class ProductosAlmacenados():
                 
                 print(f"{e}")
                 
-                precio = int(input("\nIngresa un precio nuevo para el producto: "))
+                precio = float(input("\nIngresa un precio nuevo para el producto: "))
             
     def set_cantidad(self, cantidad):
         
@@ -74,7 +74,7 @@ class ProductosAlmacenados():
                 
             else:
                 
-                raise ValueError("La cantidad debe ser mayor que 0")
+                raise ValueError("\nLa cantidad debe ser mayor que 0")
                 
         except ValueError as e:
             

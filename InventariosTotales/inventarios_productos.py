@@ -1,4 +1,4 @@
-from Productos.prod_almacen import ProductosAlmacenados
+from ProductosTotales.prod_almacen import ProductosAlmacenados
 
 class Inventario():
     
@@ -75,7 +75,7 @@ class Inventario():
 
         if not self._inventarioProd:
             
-            raise ValueError("\nNo hay productos en el inventario para realizar una busqueda\n")
+            raise ValueError("\nNo hay productos en el inventario para realizar una busqueda\n")     
             
         productoEncontrado = False
     
@@ -166,7 +166,7 @@ class Inventario():
             
             if producto_encontrado:
                 
-                nuevo_precio = int(input("\nIngrese el nuevo precio para el producto: "))
+                nuevo_precio = float(input("\nIngrese el nuevo precio para el producto: "))
                 
                 producto_encontrado.set_precio(nuevo_precio)
                 
