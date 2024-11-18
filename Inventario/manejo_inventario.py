@@ -322,4 +322,4 @@ class Inventario():
         except ValueError as e:
             
             # Maneja excepciones durante la operación.
-            print(f"{e}") 
+            print(f"{e}")
