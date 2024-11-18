@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="08ba43b3-7ad3-4639-857a-e8a4fb8a5ade" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Inventarios/inventarios.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Productos/productos.py" beforeDir="false" />
-    </list>
+    <list default="true" id="4c3cc6a8-d22e-4741-b204-9b3b2e5988c7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2nIWQ7aeYuBxUEc8vmNAFFmioIK" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2nQS26Af88DD2n9Z6BEZogKf5Z5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,19 +19,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/programacion/practicar python/inventario"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="08ba43b3-7ad3-4639-857a-e8a4fb8a5ade" name="Changes" comment="" />
-      <created>1728661051929</created>
+      <changelist id="4c3cc6a8-d22e-4741-b204-9b3b2e5988c7" name="Changes" comment="" />
+      <created>1728903597526</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1728661051929</updated>
+      <updated>1728903597526</updated>
     </task>
     <servers />
   </component>
